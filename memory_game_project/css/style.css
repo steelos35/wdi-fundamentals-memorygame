@@ -1,0 +1,53 @@
+body {
+text-align: center; 
+text-decoration: none;
+
+}
+h1 {
+	text-transform: uppercase;
+}
+
+h1 {
+	font-family: raleway;
+	color: #0d2c40
+	letter-spacing: 1px;
+	font-weight: 400;
+	font-size: 45px;
+}
+
+ class="buttons" {
+ 	font-family: raleway;
+ 	color: #f15b31;
+ 	letter-spacing: 1px;
+ 	font-weight: 600;
+ 	font-size: 18px;
+
+ }
+
+
+ class="instructions"{
+ 	font-family: raleway;
+ 	color: #0d2c40;
+ 	letter-spacing: 1px;
+ 	font-weight: 600;
+ 	font-size: 20px;
+
+
+ }
+
+ p{
+ 	font-family: "droid";
+ 	line-height: 26px
+ 	font-size18px;
+
+ }
+
+
+
+
+
+
+
+
+
+ 
